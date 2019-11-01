@@ -1,2 +1,2 @@
 # CheonYuJeong
-천유정 22
+천유정
