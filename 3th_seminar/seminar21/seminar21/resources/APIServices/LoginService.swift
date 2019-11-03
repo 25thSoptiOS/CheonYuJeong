@@ -46,7 +46,7 @@ class LoginService {
                                     
                                 case true:
                                     print("success")
-                                    completion(.success(result.data))
+                                    completion(.success(result.data as Any))
                                 case false:
                                     completion(.requestErr(result.message))
                                 }
