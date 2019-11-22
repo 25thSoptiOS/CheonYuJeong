@@ -1,6 +1,0 @@
-framework module Pods_seminar21_seminar21UITests {
-  umbrella header "Pods-seminar21-seminar21UITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
