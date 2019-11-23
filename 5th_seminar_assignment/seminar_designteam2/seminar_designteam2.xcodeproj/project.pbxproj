@@ -13,6 +13,7 @@
 		EA8581CF2384374B00CD0536 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA8581CD2384374B00CD0536 /* Main.storyboard */; };
 		EA8581D12384374D00CD0536 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA8581D02384374D00CD0536 /* Assets.xcassets */; };
 		EA8581D42384374D00CD0536 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA8581D22384374D00CD0536 /* LaunchScreen.storyboard */; };
+		EA8581E023890F5700CD0536 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8581DF23890F5700CD0536 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA8581D02384374D00CD0536 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA8581D32384374D00CD0536 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA8581D52384374D00CD0536 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA8581DF23890F5700CD0536 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomCollectionViewCell.swift; path = Resources/CustomCollectionViewCell.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				EA8581CD2384374B00CD0536 /* Main.storyboard */,
+				EA8581DF23890F5700CD0536 /* CustomCollectionViewCell.swift */,
 				EA8581D22384374D00CD0536 /* LaunchScreen.storyboard */,
 				EA8581D02384374D00CD0536 /* Assets.xcassets */,
 			);
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA8581E023890F5700CD0536 /* CustomCollectionViewCell.swift in Sources */,
 				EA8581CC2384374B00CD0536 /* ViewController.swift in Sources */,
 				EA8581C82384374B00CD0536 /* AppDelegate.swift in Sources */,
 				EA8581CA2384374B00CD0536 /* SceneDelegate.swift in Sources */,
