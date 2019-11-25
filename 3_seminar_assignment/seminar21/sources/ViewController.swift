@@ -11,7 +11,6 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var someImage: UIImageView!
-    
     @IBOutlet weak var logoimg: UIImageView!
     @IBOutlet weak var idView: UIView!
     @IBOutlet weak var pwView: UIView!
